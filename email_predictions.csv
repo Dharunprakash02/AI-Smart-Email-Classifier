@@ -1,0 +1,81 @@
+date,email,category,urgency
+2026-03-07 17:23:03.321281,"Subject: Issue with Payment Processing
+
+Hello,
+
+I tried to complete a payment on your website but the transaction failed multiple times. Could you please check the issue and let me know what might be causing this?
+
+Thanks.
+",inquiry,medium
+2026-03-07 17:25:37.443291,"Subject: Congratulations! You Won a Prize
+
+Dear User,
+
+Congratulations! You have been selected as the lucky winner of a $1000 gift card. Click the link below to claim your reward now.
+
+Limited time offer!
+
+Regards,
+Promo Team",spam,medium
+2026-03-07 17:31:20.718870,"Subject: Need Immediate Password Reset
+
+Hi Support,
+
+I forgot my password and I am unable to access my account. I need to log in immediately for an important task. Please help me reset my password as soon as possible.
+
+Thanks.",spam,high
+2026-03-07 17:31:40.600419,"Subject: Need Immediate Password Reset
+
+Hi Support,
+
+I forgot my password and I am unable to access my account. I need to log in immediately for an important task. Please help me reset my password as soon as possible.
+
+Thanks.",spam,high
+2026-03-07 17:31:43.527632,"Subject: Need Immediate Password Reset
+
+Hi Support,
+
+I forgot my password and I am unable to access my account. I need to log in immediately for an important task. Please help me reset my password as soon as possible.
+
+Thanks.",spam,high
+2026-03-07 17:31:45.882679,"Subject: Need Immediate Password Reset
+
+Hi Support,
+
+I forgot my password and I am unable to access my account. I need to log in immediately for an important task. Please help me reset my password as soon as possible.
+
+Thanks.",spam,high
+2026-03-07 17:31:48.853607,"Subject: Need Immediate Password Reset
+
+Hi Support,
+
+I forgot my password and I am unable to access my account. I need to log in immediately for an important task. Please help me reset my password as soon as possible.
+
+Thanks.",spam,high
+2026-03-14 16:54:49.777695,"Subject: Issue with Payment Processing
+
+Hello,
+
+I tried to complete a payment on your website but the transaction failed multiple times. Could you please check the issue and let me know what might be causing this?
+
+Thanks.",inquiry,medium
+2026-03-14 17:27:40.318951,"Subject: Congratulations! You Won a Prize
+
+Dear User,
+
+Congratulations! You have been selected as the lucky winner of a $1000 gift card. Click the link below to claim your reward now.
+
+Limited time offer!
+
+Regards,
+Promo Team",spam,medium
+2026-03-14 17:32:16.793438,"Subject: Payment Failure Issue – Urgent
+
+Hello Finance Team,
+
+I attempted to complete a payment through the company portal, but the transaction failed and the amount was deducted from my account.
+
+Please check this issue urgently and provide an update.
+
+Thanks,
+Arjun",inquiry,high

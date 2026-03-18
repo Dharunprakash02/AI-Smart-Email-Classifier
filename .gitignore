@@ -1,0 +1,66 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.project
+.pydevproject
+.settings/
+
+# pip
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Data outputs (optional - comment out if you want to version control these)
+# *.csv
+# email_predictions.csv
+
+# Large model files (stored separately via Git LFS or external storage)
+models/**/*.safetensors
+models/**/*.zip
+models/**/training_args.bin
