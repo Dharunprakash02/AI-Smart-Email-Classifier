@@ -78,3 +78,32 @@ The project uses two pre-trained DistilBERT models:
 - `category_model`: Fine-tuned for email category classification
 - `urgency_model`: Fine-tuned for urgency prediction
 - `tokenizer`: BERT tokenizer for text preprocessing
+
+### Important: Large Model Files
+
+The model files (`.safetensors`, `.zip`, and `training_args.bin`) are not included in this repository due to their large size (>100MB each).
+
+**How to get the model files:**
+
+1. **Option 1: Manual Download**
+   - Download the pre-trained models from your model hosting service
+   - Extract them into the `models/` directory maintaining the structure:
+     ```
+     models/
+     ├── category_model/
+     │   ├── config.json
+     │   ├── model.safetensors
+     │   └── training_args.bin
+     ├── urgency_model/
+     │   ├── config.json
+     │   ├── model.safetensors
+     │   └── training_args.bin
+     └── tokenizer/
+         ├── tokenizer.json
+         └── tokenizer_config.json
+     ```
+
+2. **Option 2: Using Git LFS (Recommended for future projects)**
+   - Install Git LFS: `git lfs install`
+   - Track large files: `git lfs track "**/*.safetensors" "**/*.zip"`
+   - Add and commit: `git add .gitattributes && git commit -m "Setup LFS"`
