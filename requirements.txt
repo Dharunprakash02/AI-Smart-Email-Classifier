@@ -1,6 +1,21 @@
-pandas==2.0.3
-plotly==5.17.0
-streamlit==1.28.1
-torch==2.0.1
-transformers==4.34.1
-safetensors==0.4.0
+# ── Core UI ────────────────────────────────────────────────────────────────────
+streamlit>=1.35.0
+
+# ── ML / NLP ───────────────────────────────────────────────────────────────────
+scikit-learn>=1.4.0
+nltk>=3.8.1
+datasets>=2.19.0
+
+# ── Data ───────────────────────────────────────────────────────────────────────
+pandas>=2.2.0
+numpy>=1.26.0
+
+# ── Visualisation ──────────────────────────────────────────────────────────────
+plotly>=5.22.0
+
+# ── PDF export (optional) ──────────────────────────────────────────────────────
+fpdf2>=2.7.9
+
+# ── HuggingFace (for training only) ────────────────────────────────────────────
+transformers>=4.40.0          # needed only for train_distilbert_model.py
+torch>=2.2.0                  # needed only for train_distilbert_model.py

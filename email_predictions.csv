@@ -1,81 +1,177 @@
 date,email,category,urgency
-2026-03-07 17:23:03.321281,"Subject: Issue with Payment Processing
+2026-03-25 22:38:30.389717,"Subject: Server Down – Immediate Attention Required
 
-Hello,
+Dear IT Support Team,
 
-I tried to complete a payment on your website but the transaction failed multiple times. Could you please check the issue and let me know what might be causing this?
+Our production server has been down since this morning and none of the employees are able to access the internal system. This issue is affecting our daily operations and customer service.
 
-Thanks.
-",inquiry,medium
-2026-03-07 17:25:37.443291,"Subject: Congratulations! You Won a Prize
-
-Dear User,
-
-Congratulations! You have been selected as the lucky winner of a $1000 gift card. Click the link below to claim your reward now.
-
-Limited time offer!
+Please look into this issue immediately and resolve it as soon as possible.
 
 Regards,
-Promo Team",spam,medium
-2026-03-07 17:31:20.718870,"Subject: Need Immediate Password Reset
+Rahul Sharma",Spam,High
+2026-03-25 22:40:32.191192,"Dear Support Team,
 
-Hi Support,
+The mobile application keeps crashing every time I try to open it. This issue started today morning and is preventing me from completing my work.
 
-I forgot my password and I am unable to access my account. I need to log in immediately for an important task. Please help me reset my password as soon as possible.
-
-Thanks.",spam,high
-2026-03-07 17:31:40.600419,"Subject: Need Immediate Password Reset
-
-Hi Support,
-
-I forgot my password and I am unable to access my account. I need to log in immediately for an important task. Please help me reset my password as soon as possible.
-
-Thanks.",spam,high
-2026-03-07 17:31:43.527632,"Subject: Need Immediate Password Reset
-
-Hi Support,
-
-I forgot my password and I am unable to access my account. I need to log in immediately for an important task. Please help me reset my password as soon as possible.
-
-Thanks.",spam,high
-2026-03-07 17:31:45.882679,"Subject: Need Immediate Password Reset
-
-Hi Support,
-
-I forgot my password and I am unable to access my account. I need to log in immediately for an important task. Please help me reset my password as soon as possible.
-
-Thanks.",spam,high
-2026-03-07 17:31:48.853607,"Subject: Need Immediate Password Reset
-
-Hi Support,
-
-I forgot my password and I am unable to access my account. I need to log in immediately for an important task. Please help me reset my password as soon as possible.
-
-Thanks.",spam,high
-2026-03-14 16:54:49.777695,"Subject: Issue with Payment Processing
-
-Hello,
-
-I tried to complete a payment on your website but the transaction failed multiple times. Could you please check the issue and let me know what might be causing this?
-
-Thanks.",inquiry,medium
-2026-03-14 17:27:40.318951,"Subject: Congratulations! You Won a Prize
-
-Dear User,
-
-Congratulations! You have been selected as the lucky winner of a $1000 gift card. Click the link below to claim your reward now.
-
-Limited time offer!
+Please look into this issue urgently and provide a fix as soon as possible.
 
 Regards,
-Promo Team",spam,medium
-2026-03-14 17:32:16.793438,"Subject: Payment Failure Issue – Urgent
+Ravi Kumar",Academic,High
+2026-03-25 22:43:41.890984,"Subject: Final Warning: Account Suspension
+Body:
+Your account will be suspended in 2 hours unless you confirm credentials now. Click this secure link immediately to avoid permanent deactivation and data loss.",Feedback,High
+2026-03-26 13:32:46.702469,"Hello Team,
 
-Hello Finance Team,
+Thank you for resolving my issue quickly. The support team did an excellent job.
 
-I attempted to complete a payment through the company portal, but the transaction failed and the amount was deducted from my account.
+Keep up the great work!
 
-Please check this issue urgently and provide an update.
+Best regards,
+Suresh",Academic,Low
+2026-03-26 13:42:05.159398,"Dear Security Team,
+
+A potential security vulnerability has been detected in the application. This needs immediate attention to prevent any data breach.
+
+Please take necessary action immediately.
+
+Regards,
+Admin",Feedback,High
+2026-03-26 13:46:19.479707,"Dear Security Team,
+
+A potential security vulnerability has been detected in the application. This needs immediate attention to prevent any data breach.
+
+Please take necessary action immediately.
+
+Regards,
+Admin",Feedback,High
+2026-03-26 13:53:55.986618,"Dear Security Team,
+
+A potential security vulnerability has been detected in the application. This needs immediate attention to prevent any data breach.
+
+Please take necessary action immediately.
+
+Regards,
+Admin",Request,High
+2026-03-26 14:03:51.277286,"Dear Mentor,
+
+I need clarification regarding the preprocessing steps mentioned in the assignment.
+
+Could you please guide me on how to proceed?
+
+Thank you,
+Kiran",Request,Low
+2026-03-26 14:07:08.815958,"Dear Mentor,
+
+I need clarification regarding the preprocessing steps mentioned in the assignment.
+
+Could you please guide me on how to proceed?
+
+Thank you,
+Kiran",Request,Low
+2026-03-26 15:47:31.777565,"Dear Mentor,
+
+I need clarification regarding the preprocessing steps mentioned in the assignment.
+
+Could you please guide me on how to proceed?
+
+Thank you,
+Kiran",Request,Low
+2026-03-26 16:36:14.095117,"Email:
+Dear Support Team,
+
+The system has been responding very slowly during peak hours. This is affecting productivity.
+
+Kindly investigate and resolve the issue.
+
+Regards,
+Rahul",Request,Low
+2026-03-26 16:37:44.049035,"Email:
+Dear Support Team,
+
+The system has been responding very slowly during peak hours. This is affecting productivity.
+
+Kindly investigate and resolve the issue.
+
+Regards,
+Rahul",Request,Low
+2026-03-26 16:52:24.317032,"Email:
+Dear Support Team,
+
+The system has been responding very slowly during peak hours. This is affecting productivity.
+
+Kindly investigate and resolve the issue.
+
+Regards,
+Rahul",Complaint,Low
+2026-03-26 16:52:55.223407,"Hi Sir,
+
+I have completed my current tasks and would like to request a new module to work on.
+
+Please assign the next task at your convenience.
 
 Thanks,
-Arjun",inquiry,high
+Dharun",Request,Medium
+2026-03-26 17:01:05.773806,"Hi Sir,
+
+I have completed my current tasks and would like to request a new module to work on.
+
+Please assign the next task at your convenience.
+
+Thanks,
+Dharun",Request,Medium
+2026-03-26 17:13:45.633975,"Hi Sir,
+
+I have completed my current tasks and would like to request a new module to work on.
+
+Please assign the next task at your convenience.
+
+Thanks,
+Dharun",Request,Medium
+2026-03-26 17:26:22.681828,"Hi Sir,
+
+I have completed my current tasks and would like to request a new module to work on.
+
+Please assign the next task at your convenience.
+
+Thanks,
+Dharun",Request,Medium
+2026-03-26 18:35:47.773931,"Hi Sir,
+
+I have completed my current tasks and would like to request a new module to work on.
+
+Please assign the next task at your convenience.
+
+Thanks,
+Dharun",Request,Medium
+2026-03-28 22:28:16.570544,"Hello Team,
+
+Thank you for resolving my issue quickly. The support team did an excellent job.
+
+Keep up the great work!
+
+Best regards,
+Suresh",Complaint,Low
+2026-03-28 22:42:26.820235,"Hello Team,
+
+Thank you for resolving my issue quickly. The support team did an excellent job.
+
+Keep up the great work!
+
+Best regards,
+Suresh",0,Low
+2026-03-28 22:44:49.067455,"Hello Team,
+
+Thank you for resolving my issue quickly. The support team did an excellent job.
+
+Keep up the great work!
+
+Best regards,
+Suresh",forum,Low
+2026-03-28 22:45:54.040878,"Hello Team,
+
+Thank you for resolving my issue quickly. The support team did an excellent job.
+
+Keep up the great work!
+
+Best regards,
+Suresh",Complaint,Low
