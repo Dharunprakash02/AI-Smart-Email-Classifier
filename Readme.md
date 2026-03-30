@@ -90,6 +90,10 @@ streamlit run app.py
 
 Open **http://localhost:8501** in your browser.
 
+### 🌐 Live Deployment (Render)
+
+https://ai-smart-email-classifier-v6ix.onrender.com/
+
 ---
 
 ## 🖥 Dashboard Tabs
